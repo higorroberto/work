@@ -1,0 +1,5 @@
+ssh amazon - Acessa o servidor
+scp Downloads/*.csv amazon:/tmp - copia todas as pastas .csv para o servidor amazon
+php atualiza-zenvila-erro-api.php 26-02-2015 com a data d-1 como parametro - executa o arquivo php com a data d-1 como parametro.
+
+http://audio.conferenciacorp.com.br/ - Site de audio conferencia da Streamtel
